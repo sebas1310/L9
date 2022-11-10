@@ -2,6 +2,8 @@ package com.example.lab9_base.Bean;
 
 public class Arbitro {
     private String nombre;
+
+
     private String pais;
     private int idArbitro;
 
